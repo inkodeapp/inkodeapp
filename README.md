@@ -5,15 +5,15 @@
 #### Actualmente me dedico a:
 
 - Reforzar conocimientos sobre el stack tecnológico MERN.
-- Colaborar activamente en 👉🏻 [INKODEAPP](https://www.inkodeapp.com/).
+- Trabajando activamente en 👉🏻 [INKODEAPP](https://www.inkodeapp.com/).
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
-- Trabajando en CoderHouse como desarrollador Tutor de SQL.
+- Trabajando en CoderHouse como Tutor de SQL.
 ___
 
 
 #### Tengo conocimientos sobre:
 
-##### Lenguajes de Programacion
+##### Frontend
 
 JavaScript, TypeScript, SQL y Python.
 
@@ -37,9 +37,15 @@ MySQL, MSSQL, MariaDB y mongoDB.
 
 _____
 
- ##### Herramientas
+ ##### Mobile Development
  
- FireBase, Postman, Git y Github...
+React Native, Kotlin, Java.
+ 
+_____
+
+##### Herramientas
+ 
+FireBase, Postman, Git y Github, Heroku, Vercel...
 
 
 #### ¿Medios de contacto?☕️
